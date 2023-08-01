@@ -16,7 +16,7 @@
 				}
 				
 				if (isset($_POST['reset'])){
-					header('Location: /logintest/');
+					header('Location: index.php');
 				}
 		?>
 		
